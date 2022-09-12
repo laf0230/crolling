@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/crolling/static/css/main.abd64e84.css",
+    "main.js": "/crolling/static/js/main.001bf3f6.js",
+    "index.html": "/crolling/index.html",
+    "main.abd64e84.css.map": "/crolling/static/css/main.abd64e84.css.map",
+    "main.001bf3f6.js.map": "/crolling/static/js/main.001bf3f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.001bf3f6.js"
+  ]
+}
